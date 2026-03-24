@@ -3,7 +3,7 @@ const config = {
     "agents": [
       {
         "name": "Rick Roccasalva",
-        "imageSrc": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1761767184484-biorick.jpg",
+        "imageSrc": "",
         "contactDetails": [
           {
             "type": "email",
