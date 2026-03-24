@@ -81,7 +81,7 @@ const config = {
         "Everything changed when they sat down with me and realized buying a home didn't have to mean bidding the highest or compromising on their must-haves. They chose to work with me because of my proven track record in strategic negotiations and deep market knowledge, they needed someone who could win without breaking their budget. Most importantly, they appreciated my personalized approach: I actually listened to what mattered most to them, not just what was \"realistic\" in the market."
       ],
       "image": {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1773776487416-L3RycmViL2xpc3RpbmdzLzQyLzk0LzAxLzQxL3AvZGFjMjE0YzktMzY4NC00MWVhLWJmMDMtNzNiOWUxZjU3OTdmLmpwZw.jpg"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-Screenshot2026-03-24at13.50.06.png"
       },
       "listItems": []
     },
