@@ -25,7 +25,7 @@ const config = {
   },
   "header": {
     "tag": "CASE STUDY",
-    "title": "How We Helped First-Time Buyers Win Their Dream Port Perry Home in a Bidding War—Without Being the Highest Offer",
+    "title": "How We Helped First-Time Buyers Win Their Dream Port Perry Home in a Bidding War, Without Being the Highest Offer",
     "subheadline": "Strategic Negotiation Beats High Price: Secured Their Perfect 3-Bedroom Semi in Their Dream Location for $14,900 Under Asking"
   },
   "mainBox": {
