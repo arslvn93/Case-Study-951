@@ -1,16 +1,5 @@
-// =================================================================================================
-// PAGE CONFIGURATION OBJECT
-// This file defines all the dynamic content for the case study page.
-// The `renderer.js` file reads this object to build the HTML.
-// To change text, images, or other content, edit the values in this file.
-// =_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_
 const config = {
   "globals": {
-    "companyName": "iStreet Realty Group",
-    "mainCTAButtonText": "Book A Discovery Call",
-    "mainCTAButtonURL": "#contact",
-    "primaryColor": "#e3c379",
-    "accentColor": "#d9c6a2",
     "agents": [
       {
         "name": "Rick Roccasalva",
@@ -26,7 +15,13 @@ const config = {
           }
         ]
       }
-    ]
+    ],
+    "companyName": "iStreet Realty Group",
+    "mainCTAButtonText": "Book A Discovery Call",
+    "mainCTAButtonURL": "https://calendly.com/rick-istreetrealty/discovery-call",
+    "primaryColor": "#e3c379",
+    "accentColor": "#d9c6a2",
+    "facebookPixelId": ""
   },
   "header": {
     "tag": "CASE STUDY",
@@ -64,7 +59,8 @@ const config = {
         "Fear of making a costly mistake: As first-time buyers, they were terrified of overpaying or getting trapped in a process they didn't understand",
         "Multiple offer pressure: When they finally found \"the one\" at 425 Bay Street, they faced the heartbreak of competing against other buyers—knowing they couldn't stretch their budget any higher",
         "Time running out: Every week that passed meant watching their savings lose purchasing power while inventory stayed frustratingly low"
-      ]
+      ],
+      "listItems": []
     },
     {
       "type": "standard",
@@ -78,7 +74,8 @@ const config = {
       ],
       "testimonial": {
         "quote": "\"\"We were blown away by Rick's expertise and experience from day one. He made every step of the process smooth and stress-free, even when we were competing against other buyers. We were so impressed with his professionalism and knowledge—he didn't just help us buy a house, he helped us win our dream home without overpaying. We would not hesitate to recommend Rick or use his services again in the future. He turned what we thought was impossible into reality.\"\"<br><span>— Satisfied Client</span>"
-      }
+      },
+      "listItems": []
     },
     {
       "type": "standard",
@@ -88,7 +85,8 @@ const config = {
       ],
       "image": {
         "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1773776487416-L3RycmViL2xpc3RpbmdzLzQyLzk0LzAxLzQxL3AvZGFjMjE0YzktMzY4NC00MWVhLWJmMDMtNzNiOWUxZjU3OTdmLmpwZw.jpg"
-      }
+      },
+      "listItems": []
     },
     {
       "type": "standard",
@@ -100,7 +98,8 @@ const config = {
         "Secured their dream location in the exact Port Perry neighbourhood they wanted",
         "Got all three must-haves: prime location, 3 bedrooms, and a beautiful backyard for their future",
         "Achieved what they thought was impossible: homeownership within their budget—years ahead of when they thought they could afford it"
-      ]
+      ],
+      "listItems": []
     },
     {
       "type": "standard",
@@ -109,7 +108,8 @@ const config = {
         "Strategy beats desperation every time: In multiple offer situations, the highest bid doesn't always win—sellers care about certainty, flexibility, and connection just as much as price",
         "The right agent changes everything: Working with someone who has deep market knowledge and proven negotiation tactics can save you tens of thousands of dollars and years of waiting",
         "Homeownership is more achievable right now than it's been in over 6 years: If you're waiting for the \"perfect\" market conditions, you're already in them—you just need the right professional to show you how to win"
-      ]
+      ],
+      "listItems": []
     },
     {
       "type": "ctaBanner",
@@ -121,24 +121,24 @@ const config = {
     }
   ],
   "footer": {
+    "privacyPolicy": {
+      "text": "Privacy Policy",
+      "href": "https://istreetrealty.ca/privacy-policy/"
+    },
     "logo": {
       "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1761767184484-biorick.jpg"
+    },
+    "secondaryLogo": {
+      "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-Untitled-design-2.jpg"
     },
     "brokerageLabel": "Brokerage:",
     "brokerageName": "iStreet Realty Group - HomeLife Partners",
     "brokerageAddress": "3850 Steeles Avenue W. Unit 6, Woodbridge, Ontario",
-    "secondaryLogo": {
-      "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-Untitled-design-2.jpg"
-    },
-    "disclaimerText": "All testimonials on this page are from real clients. Their experiences do not guarantee similar results.<br>Individual results may vary based on location, market conditions, motivation, as well as other unforeseen factors. Your results may vary.",
-    "privacyPolicy": {
-      "text": "Privacy Policy",
-      "href": "https://istreetrealty.ca/privacy-policy/"
-    }
-  }
+    "disclaimerText": "All testimonials on this page are from real clients. Their experiences do not guarantee similar results.<br>Individual results may vary based on location, market conditions, motivation, as well as other unforeseen factors. Your results may vary."
+  },
+  "githubRepo": "https://github.com/arslvn93/Case-Study-951"
 };
 
-// Export for Node.js environment (if applicable) or set for browser
 if (typeof module !== 'undefined' && module.exports) {
   module.exports = config;
 } else if (typeof window !== 'undefined') {
