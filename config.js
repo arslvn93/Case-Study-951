@@ -32,7 +32,7 @@ const config = {
     "summary": {
       "title": "How We Helped First-Time Buyers Win Their Dream Port Perry Home in a Bidding War, Without Being the Highest Offer",
       "heroImage": {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1773776469795-L3RycmViL2xpc3RpbmdzLzQyLzk0LzAxLzQxL3AvNDgxYjViYjgtNzU3NS00N2ZlLTk0MjMtNjU5NzVjOWZlMWIzLmpwZw.jpg"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-Screenshot2026-03-24at13.50.26.png"
       },
       "subTitle": "Summary",
       "paragraphs": [
