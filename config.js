@@ -30,14 +30,14 @@ const config = {
   },
   "mainBox": {
     "summary": {
-      "title": "How We Helped First-Time Buyers Win Their Dream Port Perry Home in a Bidding War—Without Being the Highest Offer",
+      "title": "How We Helped First-Time Buyers Win Their Dream Port Perry Home in a Bidding War, Without Being the Highest Offer",
       "heroImage": {
         "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1773776469795-L3RycmViL2xpc3RpbmdzLzQyLzk0LzAxLzQxL3AvNDgxYjViYjgtNzU3NS00N2ZlLTk0MjMtNjU5NzVjOWZlMWIzLmpwZw.jpg"
       },
       "subTitle": "Summary",
       "paragraphs": [
-        "Meet a young couple who thought homeownership was years away. With limited inventory in their price range and fierce competition across Port Perry, they were convinced their dream of owning a home in the neighbourhood they loved was just that—a dream. They had no idea that in just 60 days, they'd be holding the keys to a 3-bedroom semi-detached home that checked every single box on their wish list.",
-        "Through professional service and market expertise, we delivered exceptional results for our client. <strong>WON IN A MULTIPLE OFFER SITUATION—NOT ON PRICE, BUT ON STRATEGY</strong> <strong>PURCHASED FOR $720,000—$14,900 UNDER THE $734,900 ASKING PRICE</strong> <strong>CLOSED IN 60 DAYS</strong> with terms that worked perfectly for their timeline Secured their dream location in the exact Port Perry neighbourhood they wanted Got all three must-haves: prime location, 3 bedrooms, and a beautiful backyard for their future Achieved what they thought was impossible: homeownership within their budget—years ahead of when they thought they could afford it"
+        "Meet a young couple who thought homeownership was years away. With limited inventory in their price range and fierce competition across Port Perry, they were convinced their dream of owning a home in the neighbourhood they loved was just that: a dream. They had no idea that in just 60 days, they'd be holding the keys to a 3-bedroom semi-detached home that checked every single box on their wish list.",
+        "Through professional service and market expertise, we delivered exceptional results for our client. <strong>WON IN A MULTIPLE OFFER SITUATION, NOT ON PRICE, BUT ON STRATEGY</strong> <strong>PURCHASED FOR $720,000, $14,900 UNDER THE $734,900 ASKING PRICE</strong> <strong>CLOSED IN 60 DAYS</strong> with terms that worked perfectly for their timeline Secured their dream location in the exact Port Perry neighbourhood they wanted Got all three must-haves: prime location, 3 bedrooms, and a beautiful backyard for their future Achieved what they thought was impossible: homeownership within their budget, years ahead of when they thought they could afford it"
       ]
     },
     "sidebar": {
