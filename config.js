@@ -14,6 +14,20 @@ const config = {
             "value": "416 616 9369"
           }
         ]
+      },
+      {
+        "name": "Steven Simonetti",
+        "imageSrc": "",
+        "contactDetails": [
+          {
+            "type": "email",
+            "value": "steven@istreetrealty.ca"
+          },
+          {
+            "type": "phone",
+            "value": "(416) 400-7653"
+          }
+        ]
       }
     ],
     "companyName": "iStreet Realty Group",
