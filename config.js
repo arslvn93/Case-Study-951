@@ -35,7 +35,7 @@ const config = {
     "mainCTAButtonURL": "https://calendly.com/rick-istreetrealty/discovery-call",
     "primaryColor": "#e3c379",
     "accentColor": "#d9c6a2",
-    "facebookPixelId": ""
+    "facebookPixelId": "1437870807350352"
   },
   "header": {
     "tag": "CASE STUDY",
