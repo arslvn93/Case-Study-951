@@ -140,7 +140,7 @@ const config = {
       "src": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/KyeQTgnX03giMLGAsQCM/media/681d180c6b471c48f7980705.webp"
     },
     "secondaryLogo": {
-      "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-Untitled-design-2.jpg"
+      "src": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/TeamUploads/upload-image(60).png"
     },
     "brokerageLabel": "Brokerage:",
     "brokerageName": "iStreet Realty Group - Brokerage: HomeLife Partners Realty Corp.",
