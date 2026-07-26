@@ -32,7 +32,7 @@ const config = {
     ],
     "companyName": "Roccasalva & Co",
     "mainCTAButtonText": "Book A Discovery Call",
-    "mainCTAButtonURL": "https://calendly.com/rick-istreetrealty/discovery-call",
+    "mainCTAButtonURL": "https://calendly.com/rick-roccasalva_co/discovery-call",
     "primaryColor": "#e3c379",
     "accentColor": "#d9c6a2",
     "facebookPixelId": "1437870807350352"
